@@ -1,16 +1,6 @@
-# stateful_project
+# Movie App
 
-Stateful project tutorial.
+This is my first stateful project. 
+In this project the user clicks on the poster and the app recommends her/him one of the best movies.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Stateful widgets are used and some functions are defined.
